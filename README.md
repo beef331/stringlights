@@ -1,3 +1,4 @@
+![](Stringlights.gif)
 # String Lights
 Simple string light generator and shader for Unity.
 ## How to use
